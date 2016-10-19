@@ -8,7 +8,7 @@
 
 import XCTest
 
-import DomainModelingPart2
+import ExtDomainModel
 
 
 class MoneyTests: XCTestCase {

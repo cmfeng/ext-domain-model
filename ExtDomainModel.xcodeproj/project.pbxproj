@@ -59,7 +59,7 @@
 		49166C031DB332A300A7EC1E = {
 			isa = PBXGroup;
 			children = (
-				49166C0E1DB332A300A7EC1E /* DomainModelingPart2 */,
+				49166C0E1DB332A300A7EC1E /* ExtDomainModel */,
 				49166C1B1DB333D300A7EC1E /* DomainModelingPart2Tests */,
 				49166C0D1DB332A300A7EC1E /* Products */,
 			);
@@ -74,11 +74,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		49166C0E1DB332A300A7EC1E /* DomainModelingPart2 */ = {
+		49166C0E1DB332A300A7EC1E /* ExtDomainModel */ = {
 			isa = PBXGroup;
 			children = (
 				49166C0F1DB332A300A7EC1E /* main.swift */,
 			);
+			name = ExtDomainModel;
 			path = DomainModelingPart2;
 			sourceTree = "<group>";
 		};
@@ -352,6 +353,7 @@
 				49166C151DB332A300A7EC1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		49166C1F1DB333D300A7EC1E /* Build configuration list for PBXNativeTarget "ExtDomainModelTests" */ = {
 			isa = XCConfigurationList;
@@ -360,6 +362,7 @@
 				49166C211DB333D300A7EC1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
